@@ -1,2 +1,2 @@
-# opencv  CascadeClassifier scissor dectect
- use LBP/HAAR classifier to dectect scissor in real time
+# opencv  CascadeClassifier scissor detect
+ use LBP/HAAR classifier to detect scissor in real time
