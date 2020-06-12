@@ -1,0 +1,2 @@
+opencv_traincascade -data ../pictures -vec scissors.vec -bg background.dat -numPos 750 -numNeg 1500 -numStages 10 -featureType HAAR -w 40 -h 25
+opencv_traincascade -data ../pictures -vec scissors.vec -bg background.dat -numPos 1000 -numNeg 1500 -numStages 15 -featureType LBP -w 40 -h 25
